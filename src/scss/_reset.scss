@@ -1,0 +1,50 @@
+.bor_one{
+    border:1px solid black
+}
+.font_15{
+    font-size:.15rem
+}
+.font_wei{
+    font-weight: bold;
+}
+.font_13{
+    font-size :0.13rem;
+}
+.font_16{
+    font-size:.16rem
+}
+.txt_int2{
+    text-indent: 2em;
+}
+.text_int{
+    text-indent:2em
+}
+.line-height{
+    line-height: 200%;
+}
+.color_title{
+    color:black;
+    font-weight: bolder;
+    font-size:.20rem
+}
+.color_title_small{
+    color:black;
+    font-weight: bolder;
+    font-size:.18rem
+}
+.mg_left{
+    margin-left:.1rem
+}
+.mg_top{
+    margin-top:.1rem
+}
+.display_column{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.column_center{
+    display:flex;
+    align-items: center;
+}

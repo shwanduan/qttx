@@ -1,0 +1,44 @@
+{
+  "id": "2163354",
+  "name": "vue官网",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "官网",
+  "glyphs": [
+    {
+      "icon_id": "13332642",
+      "name": "右键头",
+      "font_class": "process-forward",
+      "unicode": "e947",
+      "unicode_decimal": 59719
+    },
+    {
+      "icon_id": "3531312",
+      "name": "qq",
+      "font_class": "qq",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "8004813",
+      "name": "座机",
+      "font_class": "zuoji",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "290351",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "9719111",
+      "name": "首页-选中",
+      "font_class": "index",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
